@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>NET5_AppSettings_ConfigMap_Demo</RootNamespace>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>NET5-AppSettings-ConfigMap-Demo</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
